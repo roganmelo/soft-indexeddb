@@ -1,6 +1,15 @@
 # soft-indexeddb
 Minimalist indexeddb abstraction 💾
 
+[![NPM version](https://badge.fury.io/js/soft-indexeddb.png)](http://badge.fury.io/js/soft-indexeddb)
+
+[![Npm Downloads](https://nodei.co/npm/soft-indexeddb.png?downloads=true&stars=true)](https://nodei.co/npm/soft-indexeddb.png?downloads=true&stars=true)
+
+## Installation
+
+```
+npm install --save soft-indexeddb
+```
 ## Usage
 
 ```js
