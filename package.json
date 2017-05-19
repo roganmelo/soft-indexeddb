@@ -1,0 +1,27 @@
+{
+  "name": "soft-indexeddb",
+  "version": "1.0.0",
+  "description": "Minimalist indexeddb abstraction 💾",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roganmelo/soft-indexeddb.git"
+  },
+  "keywords": [
+    "indexeddb",
+    "indexed",
+    "db",
+    "promise",
+    "storage",
+    "store"
+  ],
+  "author": "Rogan Melo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roganmelo/soft-indexeddb/issues"
+  },
+  "homepage": "https://github.com/roganmelo/soft-indexeddb#readme"
+}
